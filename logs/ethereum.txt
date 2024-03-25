@@ -83,3 +83,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x676e6c850"}
 {"jsonrpc":"2.0","id":1,"result":"0x67542f34f"}
 {"jsonrpc":"2.0","id":1,"result":"0x4feecf199"}
+{"error":"{\"Error_GUID\":\"17101361080597703602\",\"Error\":\"Failed all retries {GUID:17101361080597703602,error:No pairings available.,chain_id:ETH1}\"}"}
